@@ -14,15 +14,21 @@ Contents
 
 I am using Anaconda, with ipykernel 3.
 
+
 Project Structure
 
 The notebook includes the following sections:
 
 Introduction: Overview of the dataset used for the project.
+
 Data Loading: Importing the dataset into the notebook.
+
 Data Cleaning: Handling missing values, incorrect data types, and outliers.
+
 Exploratory Data Analysis (EDA): Visual and quantitative analysis to understand the data better.
+
 Feature Engineering: Modifying or creating new features to improve model performance.
+
 Model Selection: Comparing different models to choose the best performer.
 Model Evaluation: Evaluating the chosen model(s) using appropriate metrics.
 Conclusion: Summary of the findings and potential steps for future work.

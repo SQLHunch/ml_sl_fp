@@ -30,5 +30,7 @@ Exploratory Data Analysis (EDA): Visual and quantitative analysis to understand 
 Feature Engineering: Modifying or creating new features to improve model performance.
 
 Model Selection: Comparing different models to choose the best performer.
+
 Model Evaluation: Evaluating the chosen model(s) using appropriate metrics.
+
 Conclusion: Summary of the findings and potential steps for future work.

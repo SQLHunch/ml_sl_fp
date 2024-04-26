@@ -1,0 +1,8 @@
+Packages:
+
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- scipy
+- sklearn

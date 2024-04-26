@@ -9,7 +9,7 @@ This repository contains a Jupyter Notebook for my final project, focusing on id
 Contents
 
 - AID_analysis_model.ipynb: The main Jupyter Notebook containing all the analysis, including data cleaning, EDA, model building, and evaluation.
-- The data for the project will be downloaded via URL.
+- There is no data file, sincethe data for the project will be read via URL.
 - requirements.txt: List of Python packages required to run the notebook.
 
 I am using Anaconda, with ipykernel 3.
